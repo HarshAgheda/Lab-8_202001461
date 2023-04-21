@@ -2,7 +2,7 @@
 ## Name : Harsh Agheda
 ## ID : 202001461
 
-## 1. Created a new Eclipse project, inside the project created a package and definined the class
+## 1. Created a new Eclipse project, inside the project, created a package and defined the class
 ![233036757-48d69020-3270-44bc-9c8b-c8443862f8ff](https://user-images.githubusercontent.com/84801162/233594900-a14ef0f8-aa2f-4482-a502-9b7571166c0b.png)
 
 ### 2. Test method to test the behaviour of the Boa class : 
